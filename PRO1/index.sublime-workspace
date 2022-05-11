@@ -23,14 +23,7 @@
 		"width": 0.0
 	},
 	"console":
-	{
-		"height": 0.0,
-		"history":
-		[
-		]
-	},
-	"distraction_free":
-	{
+		{
 		"menu_visible": true,
 		"show_minimap": false,
 		"show_open_files": false,
